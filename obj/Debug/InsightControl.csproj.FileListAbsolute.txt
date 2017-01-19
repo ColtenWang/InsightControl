@@ -13,3 +13,18 @@ C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDi
 C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.OpenJobForm.resources
 C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.exe
 C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.pdb
+D:\文档\GitHub\InsightControl\bin\Debug\InsightControl.exe.config
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.exe
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.pdb
+D:\文档\GitHub\InsightControl\bin\Debug\InsightControl.exe
+D:\文档\GitHub\InsightControl\bin\Debug\InsightControl.pdb
+D:\文档\GitHub\InsightControl\bin\Debug\Cognex.InSight.Controls.Display.dll
+D:\文档\GitHub\InsightControl\bin\Debug\Cognex.InSight.dll
+D:\文档\GitHub\InsightControl\bin\Debug\Cognex.InSight.xml
+D:\文档\GitHub\InsightControl\bin\Debug\Cognex.InSight.Controls.Display.xml
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.csprojResolveAssemblyReference.cache
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.frmMain.resources
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.Main.resources
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.OpenJobForm.resources
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.Properties.Resources.resources
+D:\文档\GitHub\InsightControl\obj\Debug\InsightControl.csproj.GenerateResource.Cache

@@ -257,12 +257,15 @@ namespace InsightControl
             // Menu_OpenJob
             // 
             this.Menu_OpenJob.Index = 0;
+            this.Menu_OpenJob.MergeType = System.Windows.Forms.MenuMerge.Replace;
             this.Menu_OpenJob.Text = "&Open Job";
             this.Menu_OpenJob.Click += new System.EventHandler(this.Menu_OpenJob_Click);
             // 
             // Menu_Exit
             // 
             this.Menu_Exit.Index = 1;
+            this.Menu_Exit.MergeOrder = 3;
+            this.Menu_Exit.MergeType = System.Windows.Forms.MenuMerge.Replace;
             this.Menu_Exit.Text = "E&xit";
             this.Menu_Exit.Click += new System.EventHandler(this.Menu_Exit_Click);
             // 
@@ -277,12 +280,14 @@ namespace InsightControl
             // Menu_CustomView
             // 
             this.Menu_CustomView.Index = 0;
+            this.Menu_CustomView.MergeType = System.Windows.Forms.MenuMerge.Replace;
             this.Menu_CustomView.Text = "&Custom View";
             this.Menu_CustomView.Click += new System.EventHandler(this.Menu_CustomView_Click);
             // 
             // Menu_Overlay
             // 
             this.Menu_Overlay.Index = 1;
+            this.Menu_Overlay.MergeType = System.Windows.Forms.MenuMerge.Replace;
             this.Menu_Overlay.Text = "&Overlay";
             this.Menu_Overlay.Click += new System.EventHandler(this.Menu_Overlay_Click);
             // 
@@ -389,6 +394,7 @@ namespace InsightControl
             this.Menu_Transparency80,
             this.Menu_Transparency90,
             this.Menu_Transparency100});
+            this.Menu_Transparency.RadioCheck = true;
             this.Menu_Transparency.Text = "Spreadsheet &Transparency";
             this.Menu_Transparency.Click += new System.EventHandler(this.Menu_Transparency0_Click);
             // 

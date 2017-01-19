@@ -43,7 +43,7 @@ namespace InsightControl
                         frm.Close();
                     }
                 }
-                frmMain newForm = new frmMain(this,"192.168.170.181", true);
+                frmMain newForm = new frmMain(this, "192.168.187.1", true);
                 newForm.Show();
             }
             catch (Exception)
