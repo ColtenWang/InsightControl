@@ -1,0 +1,15 @@
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\InsightControl.exe.config
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.csprojResolveAssemblyReference.cache
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.Main.resources
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.Properties.Resources.resources
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.csproj.GenerateResource.Cache
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\InsightControl.exe
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\InsightControl.pdb
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\Cognex.InSight.dll
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\Cognex.InSight.xml
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.frmMain.resources
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.OpenJobForm.resources
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.exe
+C:\Users\BUPC-015\Documents\Visual Studio 2015\Projects\InsightDisplay\InsightDisplay\InsightControl\InsightControl\obj\Debug\InsightControl.pdb
